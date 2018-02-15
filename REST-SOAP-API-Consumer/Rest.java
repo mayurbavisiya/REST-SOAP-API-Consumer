@@ -1,5 +1,3 @@
-package ae.dubaipolice.dpappstore.identityserviceconsumer;
-
 import java.nio.charset.Charset;
 
 import net.iharder.Base64;
@@ -14,7 +12,6 @@ import org.springframework.http.MediaType;
 import org.springframework.util.MultiValueMap;
 import org.springframework.web.client.RestTemplate;
 
-import ae.dubaipolice.smartservices.dpappstore.utils.AppConstants;
 
 public class RestServiceConsumer {
 	private final static Logger log = Logger.getLogger(RestServiceConsumer.class);
