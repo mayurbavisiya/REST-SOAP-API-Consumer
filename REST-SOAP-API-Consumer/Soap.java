@@ -1,4 +1,4 @@
-package ae.dubaipolice.dpappstore.identityserviceconsumer;
+
 
 import java.io.ByteArrayInputStream;
 import java.io.ByteArrayOutputStream;
@@ -19,8 +19,6 @@ import org.w3c.dom.Element;
 import org.w3c.dom.Node;
 import org.w3c.dom.NodeList;
 
-import ae.dubaipolice.smartservices.dpappstore.utils.AppConstants;
-import ae.dubaipolice.smartservices.dpappstore.utils.Utilities;
 
 public class IdentityUserStoreManagerServiceConsumer {
 
